@@ -1,0 +1,92 @@
+body {
+  background-color: #15194C ;
+}
+
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine {
+  background-color: #202777 ;
+  border-radius: 25px;
+}
+.text {
+  margin-top: 125px;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+  margin-top: 90px
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: Verdana;
+}
+
+img {
+  width: 200px;
+  height:200px;
+  margin:50px;
+}
+
+div {
+  float: left;
+  width:300px;
+  height: 300px;
+  margin-right:10px;
+  margin-bottom:30px;
+  box-sizing: border-box;
+    }
+
+.one {
+  position: absolute;
+  left: 50px;
+  top: 50px;    }
+
+.two {
+  position: absolute;
+  left: 375px;
+  top: 50px;
+    }
+
+.three {
+  position: absolute;
+  left: 700px;
+  top: 50px;
+    }
+
+.four {
+  position: absolute;
+  left: 50px;
+  top: 375px;
+    }
+
+.five {
+  position: absolute;
+  left: 375px;
+  top: 375px;
+    }
+
+.six {
+  position: absolute;
+  left: 700px;
+  top: 375px;
+    }
+
+.seven {
+  position: absolute;
+  left: 50px;
+  top: 700px;
+    }
+
+.eight {
+  position: absolute;
+  left: 375px;
+  top: 700px;
+    }
+
+.nine {
+  position: absolute;
+  left: 700px;
+  top: 700px;
+    }
