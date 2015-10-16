@@ -1,36 +1,54 @@
 body{
-	background-color: black;
+	background-color: #15194C;
 }
 
 .one, .two, .three, .four, .five, .six, .seven, .eight, .nine{
-																background-color: navy;
-																border-radius: 25px;
+															  background-color: #202777;
+															  border-radius: 25px;
+}
+.text{
+	  margin-top: 125px;
+
+}
+
+h1{
+	text-align: center;
+	color: yellow;
+	margin-top: 90px
+}
+
+p{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: Verdana;
 }
 
 img{
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height:200px;
+	margin:50px;
 
 }
 
 div{
-		float: left;
-		width:300px;
-		height: 300px;
-		margin-right:10px;
-		margin-bottom:30px;
-		box-sizing: border-box;
+	float: left;
+	width:300px;
+	height: 300px;
+	margin-right:10px;
+	margin-bottom:30px;
+	box-sizing: border-box;
 	}
 
 .one{
-		position: absolute;
-   	 	left: 50px;
-    	top: 50px;	}
+	 position: absolute;
+	 left: 50px;
+	 top: 50px;	}
 
 .two{
-		position: absolute;
-    	left: 375px;
-   		top: 50px;
+	 position: absolute;
+	 left: 375px;
+	 top: 50px;
 	}
 
 .three{
